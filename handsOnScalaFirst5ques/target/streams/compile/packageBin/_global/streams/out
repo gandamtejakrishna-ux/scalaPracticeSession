@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/scalaproject_3-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q62DMultiplicationTable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q62DMultiplicationTable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q2arrayMirrorPuzzle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q2arrayMirrorPuzzle.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q1smartTemperatureConverter.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q1smartTemperatureConverter.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q3digitSumUsingSimpleRecursion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q3digitSumUsingSimpleRecursion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q5maxElementArrayTailRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q5maxElementArrayTailRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q5maxElementArrayTailRecursion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q5maxElementArrayTailRecursion.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q3digitSumUsingSimpleRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q3digitSumUsingSimpleRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q1smartTemperatureConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q1smartTemperatureConverter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q2arrayMirrorPuzzle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q2arrayMirrorPuzzle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/q62DMultiplicationTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/q62DMultiplicationTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/tailRecursiveFactorial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/tailRecursiveFactorial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/tailRecursiveFactorial.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/tailRecursiveFactorial.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	handsOnScalaDay5/MainApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/target/scala-3.4.2/classes/handsOnScalaDay5/MainApp.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

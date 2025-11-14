@@ -1,0 +1,4 @@
+[debug] [handsonscaladay5-test] Classpath dependencies List()
+[debug] [handsonscaladay5-test] Dependencies from configurations List(handsonscaladay5)
+[debug] Bloop wrote the configuration of project 'handsonscaladay5-test' to '/Users/dadmin/trainingWithScala/scalaTraining/handsOnScalaDay5/.bloop/handsonscaladay5-test.json'
+[success] Generated .bloop/handsonscaladay5-test.json
