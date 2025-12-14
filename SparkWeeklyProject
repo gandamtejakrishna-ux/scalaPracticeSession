@@ -1,0 +1,31 @@
+https://github.com/gandamtejakrishna-ux/master-data-loader
+
+https://github.com/gandamtejakrishna-ux/meter-ingestion-service - Pipeline A
+
+
+https://github.com/gandamtejakrishna-ux/streaming-processor-service - Pipeline B
+
+
+https://github.com/gandamtejakrishna-ux/billing-service - Pipeline C
+
+
+
+https://github.com/gandamtejakrishna-ux/usage-reports-service - Pipeline D
+
+
+
+https://github.com/gandamtejakrishna-ux/usage-api-service - Play API
+
+
+
+https://docs.google.com/document/d/17kw5DSLmfk_A7gbbP4MBPNmlt3pi67mE5l1oNXhTua8/edit?usp=sharing
+
+Above doc contains all the 
+Detailed objective, approache, 
+Tools and Data formats used, 
+Reason to use, 
+pipeline flow diagram (completed conceptual flow), 
+a flow diagram for each pipeline, 
+screen shots of the output, 
+Spark UI screen shot, DAG Explanations,
+Performance metrics and Play API screen shots(in post man)
